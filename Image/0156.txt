@@ -1,0 +1,4 @@
+D:/File/Code/DMDandAMCPrinter/LayerPrinter/Image/0.bmp 1000000 0 1 1
+D:/File/Code/DMDandAMCPrinter/LayerPrinter/Image/1.bmp 1000000 0 1 1
+D:/File/Code/DMDandAMCPrinter/LayerPrinter/Image/5.bmp 1000000 0 1 1
+D:/File/Code/DMDandAMCPrinter/LayerPrinter/Image/6.bmp 1000000 0 1 1

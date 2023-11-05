@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33026.149
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LayerPrinter", "LayerPrinter.vcxproj", "{F6AED64E-72D4-318B-9E82-A8844FE3C7ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6AED64E-72D4-318B-9E82-A8844FE3C7ED}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6AED64E-72D4-318B-9E82-A8844FE3C7ED}.Debug|x86.Build.0 = Debug|Win32
+		{F6AED64E-72D4-318B-9E82-A8844FE3C7ED}.Release|x86.ActiveCfg = Release|Win32
+		{F6AED64E-72D4-318B-9E82-A8844FE3C7ED}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F58D62FD-4C49-4D07-923E-14FE8E8BCBD2}
+	EndGlobalSection
+EndGlobal
